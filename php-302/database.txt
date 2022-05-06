@@ -1,0 +1,19 @@
+DB QUERIES
+
+- CREATE DATABASE php_training;
+- USE php_training;
+- CREATE TABLE ph_heroes (ID INTEGER,
+                        FirstName VARCHAR(250),
+                        LastName VARCHAR(250),
+                        BirthPlace VARCHAR(250),
+                        Description TEXT);
+
+- INSERT INTO ph_heroes VALUES (1, "Jose", "Rizal", "Calamba, Laguna", "Jose Rizal (1861-1896) was a national hero of the Philippines and the first Asian nationalist. He expressed the growing national consciousness of many Filipinos who opposed Spanish colonial tyranny and aspired to attain democratic rights.");
+
+- INSERT INTO ph_heroes VALUES (2, "Andres", "Bonifacio", "Tondo, Manila", "Andres Bonifacio (1863-1897), a Filipino revolutionary hero, founded the Katipunan, a secret society which spearheaded the uprising against the Spanish and laid the groundwork for the first Philippine Republic.");
+
+- INSERT INTO ph_heroes VALUES (3, "Emilio", "Aguinaldo", "Kawit, Cavite", "Emilio Aguinaldo (1869-1964) led a revolutionary movement against the Spanish colonial government in the Philippines. He cooperated with the U.S. during the Spanish-American War but subsequently broke with the U.S. and led a guerilla campaign against U.S. authorities during the Philippine-American War.");
+
+- INSERT INTO ph_heroes VALUES (4, "Marcelo", "del Pilar", "Bulakan, Bulacan", "Marcelo H. del Pilar (1850-1896) also known by his pen name Plaridel, was a Filipino writer, lawyer, journalist and freemason. Del Pilar, along with Jose Rizal and Graciano Lopez Jaena, became known as the leaders of the Reform Movement in Spain.");
+
+- INSERT INTO ph_heroes VALUES (5, "Apolinario", "Mabini", "Tanauan, Batangas", "Apolinario Mabini (1864-1903) was a Filipino political philosopher and architect of the Philippine revolution. He formulated the principles of a democratic popular government, endowing the historical struggles of the Filipino people with a coherent ideological orientation.");

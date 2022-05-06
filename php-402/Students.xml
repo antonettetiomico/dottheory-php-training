@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <student student_id="2022-0001-05">
+    <Name>Tohru Honda</Name>
+    <Gender>Female</Gender>
+    <Section>Neko</Section>
+  </student>
+  <student student_id="2022-0002-05">
+    <Name>Kyo Sohma</Name>
+    <Gender>Male</Gender>
+    <Section>Neko</Section>
+  </student>
+  <student student_id="2022-0003-05">
+    <Name>Yuki Sohma</Name>
+    <Gender>Male</Gender>
+    <Section>Nezumi</Section>
+  </student>
+</Students>
